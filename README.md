@@ -1,2 +1,2 @@
 ## DCC Assignments
-#### Kindly read [License](./LICENSE) before referring any of these files.
+#### Kindly read [License](./License) before referring any of these files.
